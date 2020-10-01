@@ -1,5 +1,14 @@
+li a:hover{
+    background-color: silver;
+}
+
+
+
 @media(max-width:763px){
     .contenedor-xs{
         width: 80%;
+    }
+    .nav-container{
+        width: 100%;
     }
 }
